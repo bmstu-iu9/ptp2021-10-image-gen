@@ -1,7 +1,7 @@
 # pix2fun
 ![logo](https://github.com/bmstu-iu9/ptp2021-10-image-gen/blob/main/logo.png)
 
-###Генерация изображений по очертаниям
+### Генерация изображений по очертаниям
 
 Начертите контур предмета и модель постарается построить картинку определенного типа по вашему рисунку
 ![example](https://github.com/bmstu-iu9/ptp2021-10-image-gen/blob/main/example.png)
